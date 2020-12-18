@@ -1,0 +1,7 @@
+﻿  Player.cpp
+C:\Users\Admin\source\repos\Kursinis\Kursinis\Player.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\Admin\source\repos\Kursinis\Kursinis\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Kursinis\Kursinis\Player.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Kursinis.vcxproj -> C:\Users\Admin\source\repos\Kursinis\Debug\Kursinis.exe
